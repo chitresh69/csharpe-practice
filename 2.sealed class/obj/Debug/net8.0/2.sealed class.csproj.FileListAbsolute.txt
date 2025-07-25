@@ -1,0 +1,14 @@
+C:\Users\IBZ\source\repos\2.sealed class\obj\Debug\net8.0\2.sealed class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBZ\source\repos\2.sealed class\obj\Debug\net8.0\2.sealed class.AssemblyInfoInputs.cache
+C:\Users\IBZ\source\repos\2.sealed class\obj\Debug\net8.0\2.sealed class.AssemblyInfo.cs
+C:\Users\IBZ\source\repos\2.sealed class\obj\Debug\net8.0\2.sealed class.csproj.CoreCompileInputs.cache
+C:\Users\IBZ\source\repos\2.sealed class\bin\Debug\net8.0\2.sealed class.exe
+C:\Users\IBZ\source\repos\2.sealed class\bin\Debug\net8.0\2.sealed class.deps.json
+C:\Users\IBZ\source\repos\2.sealed class\bin\Debug\net8.0\2.sealed class.runtimeconfig.json
+C:\Users\IBZ\source\repos\2.sealed class\bin\Debug\net8.0\2.sealed class.dll
+C:\Users\IBZ\source\repos\2.sealed class\bin\Debug\net8.0\2.sealed class.pdb
+C:\Users\IBZ\source\repos\2.sealed class\obj\Debug\net8.0\2.sealed class.dll
+C:\Users\IBZ\source\repos\2.sealed class\obj\Debug\net8.0\refint\2.sealed class.dll
+C:\Users\IBZ\source\repos\2.sealed class\obj\Debug\net8.0\2.sealed class.pdb
+C:\Users\IBZ\source\repos\2.sealed class\obj\Debug\net8.0\2.sealed class.genruntimeconfig.cache
+C:\Users\IBZ\source\repos\2.sealed class\obj\Debug\net8.0\ref\2.sealed class.dll
