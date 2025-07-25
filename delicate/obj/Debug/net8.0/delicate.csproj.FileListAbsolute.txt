@@ -1,0 +1,14 @@
+C:\Users\IBZ\source\repos\delicate\obj\Debug\net8.0\delicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBZ\source\repos\delicate\obj\Debug\net8.0\delicate.AssemblyInfoInputs.cache
+C:\Users\IBZ\source\repos\delicate\obj\Debug\net8.0\delicate.AssemblyInfo.cs
+C:\Users\IBZ\source\repos\delicate\obj\Debug\net8.0\delicate.csproj.CoreCompileInputs.cache
+C:\Users\IBZ\source\repos\delicate\bin\Debug\net8.0\delicate.exe
+C:\Users\IBZ\source\repos\delicate\bin\Debug\net8.0\delicate.deps.json
+C:\Users\IBZ\source\repos\delicate\bin\Debug\net8.0\delicate.runtimeconfig.json
+C:\Users\IBZ\source\repos\delicate\bin\Debug\net8.0\delicate.dll
+C:\Users\IBZ\source\repos\delicate\bin\Debug\net8.0\delicate.pdb
+C:\Users\IBZ\source\repos\delicate\obj\Debug\net8.0\delicate.dll
+C:\Users\IBZ\source\repos\delicate\obj\Debug\net8.0\refint\delicate.dll
+C:\Users\IBZ\source\repos\delicate\obj\Debug\net8.0\delicate.pdb
+C:\Users\IBZ\source\repos\delicate\obj\Debug\net8.0\delicate.genruntimeconfig.cache
+C:\Users\IBZ\source\repos\delicate\obj\Debug\net8.0\ref\delicate.dll

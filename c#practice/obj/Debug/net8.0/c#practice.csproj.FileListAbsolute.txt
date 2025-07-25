@@ -1,0 +1,14 @@
+C:\Users\IBZ\source\repos\c#practice\bin\Debug\net8.0\c#practice.exe
+C:\Users\IBZ\source\repos\c#practice\bin\Debug\net8.0\c#practice.deps.json
+C:\Users\IBZ\source\repos\c#practice\bin\Debug\net8.0\c#practice.runtimeconfig.json
+C:\Users\IBZ\source\repos\c#practice\bin\Debug\net8.0\c#practice.dll
+C:\Users\IBZ\source\repos\c#practice\bin\Debug\net8.0\c#practice.pdb
+C:\Users\IBZ\source\repos\c#practice\obj\Debug\net8.0\c#practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBZ\source\repos\c#practice\obj\Debug\net8.0\c#practice.AssemblyInfoInputs.cache
+C:\Users\IBZ\source\repos\c#practice\obj\Debug\net8.0\c#practice.AssemblyInfo.cs
+C:\Users\IBZ\source\repos\c#practice\obj\Debug\net8.0\c#practice.csproj.CoreCompileInputs.cache
+C:\Users\IBZ\source\repos\c#practice\obj\Debug\net8.0\c#practice.dll
+C:\Users\IBZ\source\repos\c#practice\obj\Debug\net8.0\refint\c#practice.dll
+C:\Users\IBZ\source\repos\c#practice\obj\Debug\net8.0\c#practice.pdb
+C:\Users\IBZ\source\repos\c#practice\obj\Debug\net8.0\c#practice.genruntimeconfig.cache
+C:\Users\IBZ\source\repos\c#practice\obj\Debug\net8.0\ref\c#practice.dll
