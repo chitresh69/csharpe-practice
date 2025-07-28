@@ -1,4 +1,4 @@
-﻿class Enum
+﻿/*class Enum
 {
     enum Days
     {
@@ -48,4 +48,4 @@
                 break;
         }
     }
-}
+}*/

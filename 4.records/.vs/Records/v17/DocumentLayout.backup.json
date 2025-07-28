@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IBZ\\source\\repos\\Records\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{561282EF-FD6A-473F-9149-04EB9538F7B5}|Records.csproj|c:\\users\\ibz\\source\\repos\\records\\compare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561282EF-FD6A-473F-9149-04EB9538F7B5}|Records.csproj|solutionrelative:compare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561282EF-FD6A-473F-9149-04EB9538F7B5}|Records.csproj|c:\\users\\ibz\\source\\repos\\records\\with.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561282EF-FD6A-473F-9149-04EB9538F7B5}|Records.csproj|solutionrelative:with.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561282EF-FD6A-473F-9149-04EB9538F7B5}|Records.csproj|c:\\users\\ibz\\source\\repos\\records\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561282EF-FD6A-473F-9149-04EB9538F7B5}|Records.csproj|solutionrelative:record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561282EF-FD6A-473F-9149-04EB9538F7B5}|Records.csproj|c:\\users\\ibz\\source\\repos\\records\\program3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561282EF-FD6A-473F-9149-04EB9538F7B5}|Records.csproj|solutionrelative:program3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561282EF-FD6A-473F-9149-04EB9538F7B5}|Records.csproj|c:\\users\\ibz\\source\\repos\\records\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561282EF-FD6A-473F-9149-04EB9538F7B5}|Records.csproj|solutionrelative:program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561282EF-FD6A-473F-9149-04EB9538F7B5}|Records.csproj|c:\\users\\ibz\\source\\repos\\records\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561282EF-FD6A-473F-9149-04EB9538F7B5}|Records.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "record.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\source\\repos\\Records\\record.cs",
+              "RelativeDocumentMoniker": "record.cs",
+              "ToolTip": "C:\\Users\\IBZ\\source\\repos\\Records\\record.cs",
+              "RelativeToolTip": "record.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T12:03:08.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "compare.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\source\\repos\\Records\\compare.cs",
+              "RelativeDocumentMoniker": "compare.cs",
+              "ToolTip": "C:\\Users\\IBZ\\source\\repos\\Records\\compare.cs",
+              "RelativeToolTip": "compare.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T11:41:54.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "with.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\source\\repos\\Records\\with.cs",
+              "RelativeDocumentMoniker": "with.cs",
+              "ToolTip": "C:\\Users\\IBZ\\source\\repos\\Records\\with.cs",
+              "RelativeToolTip": "with.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:00:19.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "program3.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\source\\repos\\Records\\program3.cs",
+              "RelativeDocumentMoniker": "program3.cs",
+              "ToolTip": "C:\\Users\\IBZ\\source\\repos\\Records\\program3.cs",
+              "RelativeToolTip": "program3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:25:41.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "program2.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\source\\repos\\Records\\program2.cs",
+              "RelativeDocumentMoniker": "program2.cs",
+              "ToolTip": "C:\\Users\\IBZ\\source\\repos\\Records\\program2.cs",
+              "RelativeToolTip": "program2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T04:52:18.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\source\\repos\\Records\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\IBZ\\source\\repos\\Records\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T03:50:35.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

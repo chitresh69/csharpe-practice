@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IBZ\\source\\repos\\delicate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A522B8C-76C2-4C9C-937F-698DC109FB2A}|delicate.csproj|c:\\users\\ibz\\source\\repos\\delicate\\3.anonymous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A522B8C-76C2-4C9C-937F-698DC109FB2A}|delicate.csproj|solutionrelative:3.anonymous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A522B8C-76C2-4C9C-937F-698DC109FB2A}|delicate.csproj|c:\\users\\ibz\\source\\repos\\delicate\\2.multicast delegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A522B8C-76C2-4C9C-937F-698DC109FB2A}|delicate.csproj|solutionrelative:2.multicast delegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A522B8C-76C2-4C9C-937F-698DC109FB2A}|delicate.csproj|c:\\users\\ibz\\source\\repos\\delicate\\1.delegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A522B8C-76C2-4C9C-937F-698DC109FB2A}|delicate.csproj|solutionrelative:1.delegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A522B8C-76C2-4C9C-937F-698DC109FB2A}|delicate.csproj|c:\\users\\ibz\\source\\repos\\delicate\\4.callback method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A522B8C-76C2-4C9C-937F-698DC109FB2A}|delicate.csproj|solutionrelative:4.callback method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "4.CallBack Method.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\source\\repos\\delicate\\4.CallBack Method.cs",
+              "RelativeDocumentMoniker": "4.CallBack Method.cs",
+              "ToolTip": "C:\\Users\\IBZ\\source\\repos\\delicate\\4.CallBack Method.cs",
+              "RelativeToolTip": "4.CallBack Method.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAgwGsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:21:05.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "3.Anonymous.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\source\\repos\\delicate\\3.Anonymous.cs",
+              "RelativeDocumentMoniker": "3.Anonymous.cs",
+              "ToolTip": "C:\\Users\\IBZ\\source\\repos\\delicate\\3.Anonymous.cs",
+              "RelativeToolTip": "3.Anonymous.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:41:36.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "2.Multicast delegates.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\source\\repos\\delicate\\2.Multicast delegates.cs",
+              "RelativeDocumentMoniker": "2.Multicast delegates.cs",
+              "ToolTip": "C:\\Users\\IBZ\\source\\repos\\delicate\\2.Multicast delegates.cs",
+              "RelativeToolTip": "2.Multicast delegates.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:51:35.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "1.delegates.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\source\\repos\\delicate\\1.delegates.cs",
+              "RelativeDocumentMoniker": "1.delegates.cs",
+              "ToolTip": "C:\\Users\\IBZ\\source\\repos\\delicate\\1.delegates.cs",
+              "RelativeToolTip": "1.delegates.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T03:46:38.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

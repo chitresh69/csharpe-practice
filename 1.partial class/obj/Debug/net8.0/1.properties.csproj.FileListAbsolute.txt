@@ -1,0 +1,14 @@
+C:\Users\IBZ\source\repos\1.properties\bin\Debug\net8.0\1.properties.exe
+C:\Users\IBZ\source\repos\1.properties\bin\Debug\net8.0\1.properties.deps.json
+C:\Users\IBZ\source\repos\1.properties\bin\Debug\net8.0\1.properties.runtimeconfig.json
+C:\Users\IBZ\source\repos\1.properties\bin\Debug\net8.0\1.properties.dll
+C:\Users\IBZ\source\repos\1.properties\bin\Debug\net8.0\1.properties.pdb
+C:\Users\IBZ\source\repos\1.properties\obj\Debug\net8.0\1.properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBZ\source\repos\1.properties\obj\Debug\net8.0\1.properties.AssemblyInfoInputs.cache
+C:\Users\IBZ\source\repos\1.properties\obj\Debug\net8.0\1.properties.AssemblyInfo.cs
+C:\Users\IBZ\source\repos\1.properties\obj\Debug\net8.0\1.properties.csproj.CoreCompileInputs.cache
+C:\Users\IBZ\source\repos\1.properties\obj\Debug\net8.0\1.properties.dll
+C:\Users\IBZ\source\repos\1.properties\obj\Debug\net8.0\refint\1.properties.dll
+C:\Users\IBZ\source\repos\1.properties\obj\Debug\net8.0\1.properties.pdb
+C:\Users\IBZ\source\repos\1.properties\obj\Debug\net8.0\1.properties.genruntimeconfig.cache
+C:\Users\IBZ\source\repos\1.properties\obj\Debug\net8.0\ref\1.properties.dll

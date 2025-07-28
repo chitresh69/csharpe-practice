@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IBZ\\source\\repos\\4.collections-non genric\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41A7551D-B87F-417F-A83C-1649F9F7E1E0}|4.collections-non genric.csproj|c:\\users\\ibz\\source\\repos\\4.collections-non genric\\hasttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A7551D-B87F-417F-A83C-1649F9F7E1E0}|4.collections-non genric.csproj|solutionrelative:hasttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A7551D-B87F-417F-A83C-1649F9F7E1E0}|4.collections-non genric.csproj|c:\\users\\ibz\\source\\repos\\4.collections-non genric\\arraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A7551D-B87F-417F-A83C-1649F9F7E1E0}|4.collections-non genric.csproj|solutionrelative:arraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A7551D-B87F-417F-A83C-1649F9F7E1E0}|4.collections-non genric.csproj|c:\\users\\ibz\\source\\repos\\4.collections-non genric\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A7551D-B87F-417F-A83C-1649F9F7E1E0}|4.collections-non genric.csproj|solutionrelative:array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HastTable.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\source\\repos\\4.collections-non genric\\HastTable.cs",
+              "RelativeDocumentMoniker": "HastTable.cs",
+              "ToolTip": "C:\\Users\\IBZ\\source\\repos\\4.collections-non genric\\HastTable.cs",
+              "RelativeToolTip": "HastTable.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwC0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T06:25:01.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Arraylist.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\source\\repos\\4.collections-non genric\\Arraylist.cs",
+              "RelativeDocumentMoniker": "Arraylist.cs",
+              "ToolTip": "C:\\Users\\IBZ\\source\\repos\\4.collections-non genric\\Arraylist.cs",
+              "RelativeToolTip": "Arraylist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T05:48:23.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "array.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\source\\repos\\4.collections-non genric\\array.cs",
+              "RelativeDocumentMoniker": "array.cs",
+              "ToolTip": "C:\\Users\\IBZ\\source\\repos\\4.collections-non genric\\array.cs",
+              "RelativeToolTip": "array.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T04:35:27.25Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

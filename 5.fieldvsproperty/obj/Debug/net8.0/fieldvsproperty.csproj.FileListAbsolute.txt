@@ -1,0 +1,14 @@
+C:\Users\IBZ\source\repos\fieldvsproperty\bin\Debug\net8.0\fieldvsproperty.exe
+C:\Users\IBZ\source\repos\fieldvsproperty\bin\Debug\net8.0\fieldvsproperty.deps.json
+C:\Users\IBZ\source\repos\fieldvsproperty\bin\Debug\net8.0\fieldvsproperty.runtimeconfig.json
+C:\Users\IBZ\source\repos\fieldvsproperty\bin\Debug\net8.0\fieldvsproperty.dll
+C:\Users\IBZ\source\repos\fieldvsproperty\bin\Debug\net8.0\fieldvsproperty.pdb
+C:\Users\IBZ\source\repos\fieldvsproperty\obj\Debug\net8.0\fieldvsproperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBZ\source\repos\fieldvsproperty\obj\Debug\net8.0\fieldvsproperty.AssemblyInfoInputs.cache
+C:\Users\IBZ\source\repos\fieldvsproperty\obj\Debug\net8.0\fieldvsproperty.AssemblyInfo.cs
+C:\Users\IBZ\source\repos\fieldvsproperty\obj\Debug\net8.0\fieldvsproperty.csproj.CoreCompileInputs.cache
+C:\Users\IBZ\source\repos\fieldvsproperty\obj\Debug\net8.0\fieldvsproperty.dll
+C:\Users\IBZ\source\repos\fieldvsproperty\obj\Debug\net8.0\refint\fieldvsproperty.dll
+C:\Users\IBZ\source\repos\fieldvsproperty\obj\Debug\net8.0\fieldvsproperty.pdb
+C:\Users\IBZ\source\repos\fieldvsproperty\obj\Debug\net8.0\fieldvsproperty.genruntimeconfig.cache
+C:\Users\IBZ\source\repos\fieldvsproperty\obj\Debug\net8.0\ref\fieldvsproperty.dll

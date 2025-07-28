@@ -1,0 +1,14 @@
+C:\Users\IBZ\source\repos\7.tasks\bin\Debug\net8.0\7.tasks.exe
+C:\Users\IBZ\source\repos\7.tasks\bin\Debug\net8.0\7.tasks.deps.json
+C:\Users\IBZ\source\repos\7.tasks\bin\Debug\net8.0\7.tasks.runtimeconfig.json
+C:\Users\IBZ\source\repos\7.tasks\bin\Debug\net8.0\7.tasks.dll
+C:\Users\IBZ\source\repos\7.tasks\bin\Debug\net8.0\7.tasks.pdb
+C:\Users\IBZ\source\repos\7.tasks\obj\Debug\net8.0\7.tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBZ\source\repos\7.tasks\obj\Debug\net8.0\7.tasks.AssemblyInfoInputs.cache
+C:\Users\IBZ\source\repos\7.tasks\obj\Debug\net8.0\7.tasks.AssemblyInfo.cs
+C:\Users\IBZ\source\repos\7.tasks\obj\Debug\net8.0\7.tasks.csproj.CoreCompileInputs.cache
+C:\Users\IBZ\source\repos\7.tasks\obj\Debug\net8.0\7.tasks.dll
+C:\Users\IBZ\source\repos\7.tasks\obj\Debug\net8.0\refint\7.tasks.dll
+C:\Users\IBZ\source\repos\7.tasks\obj\Debug\net8.0\7.tasks.pdb
+C:\Users\IBZ\source\repos\7.tasks\obj\Debug\net8.0\7.tasks.genruntimeconfig.cache
+C:\Users\IBZ\source\repos\7.tasks\obj\Debug\net8.0\ref\7.tasks.dll

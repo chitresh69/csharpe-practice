@@ -1,0 +1,14 @@
+C:\Users\IBZ\source\repos\4.collections-non genric\bin\Debug\net8.0\4.collections-non genric.exe
+C:\Users\IBZ\source\repos\4.collections-non genric\bin\Debug\net8.0\4.collections-non genric.deps.json
+C:\Users\IBZ\source\repos\4.collections-non genric\bin\Debug\net8.0\4.collections-non genric.runtimeconfig.json
+C:\Users\IBZ\source\repos\4.collections-non genric\bin\Debug\net8.0\4.collections-non genric.dll
+C:\Users\IBZ\source\repos\4.collections-non genric\bin\Debug\net8.0\4.collections-non genric.pdb
+C:\Users\IBZ\source\repos\4.collections-non genric\obj\Debug\net8.0\4.collections-non genric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBZ\source\repos\4.collections-non genric\obj\Debug\net8.0\4.collections-non genric.AssemblyInfoInputs.cache
+C:\Users\IBZ\source\repos\4.collections-non genric\obj\Debug\net8.0\4.collections-non genric.AssemblyInfo.cs
+C:\Users\IBZ\source\repos\4.collections-non genric\obj\Debug\net8.0\4.collections-non genric.csproj.CoreCompileInputs.cache
+C:\Users\IBZ\source\repos\4.collections-non genric\obj\Debug\net8.0\4.collections-non genric.dll
+C:\Users\IBZ\source\repos\4.collections-non genric\obj\Debug\net8.0\refint\4.collections-non genric.dll
+C:\Users\IBZ\source\repos\4.collections-non genric\obj\Debug\net8.0\4.collections-non genric.pdb
+C:\Users\IBZ\source\repos\4.collections-non genric\obj\Debug\net8.0\4.collections-non genric.genruntimeconfig.cache
+C:\Users\IBZ\source\repos\4.collections-non genric\obj\Debug\net8.0\ref\4.collections-non genric.dll
