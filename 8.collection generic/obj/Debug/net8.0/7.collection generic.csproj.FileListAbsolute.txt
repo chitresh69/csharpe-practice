@@ -1,0 +1,14 @@
+C:\Users\IBZ\source\repos\7.collection generic\bin\Debug\net8.0\7.collection generic.exe
+C:\Users\IBZ\source\repos\7.collection generic\bin\Debug\net8.0\7.collection generic.deps.json
+C:\Users\IBZ\source\repos\7.collection generic\bin\Debug\net8.0\7.collection generic.runtimeconfig.json
+C:\Users\IBZ\source\repos\7.collection generic\bin\Debug\net8.0\7.collection generic.dll
+C:\Users\IBZ\source\repos\7.collection generic\bin\Debug\net8.0\7.collection generic.pdb
+C:\Users\IBZ\source\repos\7.collection generic\obj\Debug\net8.0\7.collection generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBZ\source\repos\7.collection generic\obj\Debug\net8.0\7.collection generic.AssemblyInfoInputs.cache
+C:\Users\IBZ\source\repos\7.collection generic\obj\Debug\net8.0\7.collection generic.AssemblyInfo.cs
+C:\Users\IBZ\source\repos\7.collection generic\obj\Debug\net8.0\7.collection generic.csproj.CoreCompileInputs.cache
+C:\Users\IBZ\source\repos\7.collection generic\obj\Debug\net8.0\7.collection generic.dll
+C:\Users\IBZ\source\repos\7.collection generic\obj\Debug\net8.0\refint\7.collection generic.dll
+C:\Users\IBZ\source\repos\7.collection generic\obj\Debug\net8.0\7.collection generic.pdb
+C:\Users\IBZ\source\repos\7.collection generic\obj\Debug\net8.0\7.collection generic.genruntimeconfig.cache
+C:\Users\IBZ\source\repos\7.collection generic\obj\Debug\net8.0\ref\7.collection generic.dll
