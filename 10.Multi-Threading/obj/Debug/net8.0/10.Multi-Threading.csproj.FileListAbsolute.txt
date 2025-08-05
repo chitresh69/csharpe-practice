@@ -1,0 +1,14 @@
+C:\Users\IBZ\source\repos\10.Multi-Threading\bin\Debug\net8.0\10.Multi-Threading.exe
+C:\Users\IBZ\source\repos\10.Multi-Threading\bin\Debug\net8.0\10.Multi-Threading.deps.json
+C:\Users\IBZ\source\repos\10.Multi-Threading\bin\Debug\net8.0\10.Multi-Threading.runtimeconfig.json
+C:\Users\IBZ\source\repos\10.Multi-Threading\bin\Debug\net8.0\10.Multi-Threading.dll
+C:\Users\IBZ\source\repos\10.Multi-Threading\bin\Debug\net8.0\10.Multi-Threading.pdb
+C:\Users\IBZ\source\repos\10.Multi-Threading\obj\Debug\net8.0\10.Multi-Threading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBZ\source\repos\10.Multi-Threading\obj\Debug\net8.0\10.Multi-Threading.AssemblyInfoInputs.cache
+C:\Users\IBZ\source\repos\10.Multi-Threading\obj\Debug\net8.0\10.Multi-Threading.AssemblyInfo.cs
+C:\Users\IBZ\source\repos\10.Multi-Threading\obj\Debug\net8.0\10.Multi-Threading.csproj.CoreCompileInputs.cache
+C:\Users\IBZ\source\repos\10.Multi-Threading\obj\Debug\net8.0\10.Multi-Threading.dll
+C:\Users\IBZ\source\repos\10.Multi-Threading\obj\Debug\net8.0\refint\10.Multi-Threading.dll
+C:\Users\IBZ\source\repos\10.Multi-Threading\obj\Debug\net8.0\10.Multi-Threading.pdb
+C:\Users\IBZ\source\repos\10.Multi-Threading\obj\Debug\net8.0\10.Multi-Threading.genruntimeconfig.cache
+C:\Users\IBZ\source\repos\10.Multi-Threading\obj\Debug\net8.0\ref\10.Multi-Threading.dll
